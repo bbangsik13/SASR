@@ -1,0 +1,12 @@
+imageio==2.37.4
+lpips==0.1.4
+matplotlib==3.5.3
+numpy==1.21.6
+opencv-python==4.10.0.84
+plyfile==0.9
+scipy==1.7.3
+setuptools==81.0.0
+timm==0.9.12
+torchmetrics==1.2.0
+tqdm==4.70.0
+typing-extensions==4.15.0
