@@ -1,7 +1,7 @@
 #!/bin/bash
 
 source ~/anaconda3/etc/profile.d/conda.sh
-conda activate gs
+conda activate sasr
 
 mkdir -p data
 

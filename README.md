@@ -19,8 +19,8 @@ Official repository for the paper "Do Flat Minima Improve Sparse Novel View Synt
 ```bash
 git clone https://github.com/bbangsik13/SASR.git
 cd SASR
-conda create -n gs python=3.10
-conda activate gs
+conda create -n sasr python=3.10
+conda activate sasr
 pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu118
 pip install -r requirements.txt 
 pip install submodules/diff-gaussian-rasterization-w-depth/ --no-build-isolation

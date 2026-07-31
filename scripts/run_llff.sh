@@ -2,7 +2,7 @@
 
 (
   source ~/anaconda3/etc/profile.d/conda.sh
-  conda activate gs
+  conda activate sasr
 
   RHO_XYZ=1e0
   RHO_ROTATION=5e-4 
