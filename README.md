@@ -40,8 +40,7 @@ bash scripts/download_llff.sh
 You may regenerate the MVS results if needed. In that case, the `rho` values, except for the fixed `rho_xyz`, may require tuning. However, as discussed in the paper, applying our method only to the Gaussian means is a simplified yet highly effective approach, and we found it to be robust during reproduction.
 
 ## Run
-The main experiments are run using `nohup`, and the logs are saved in the `logs` folder and results saved in the `output` folder.<br>
-Please modify as needed.
+The main experiments are run using `nohup`, and the logs are saved in the `logs` folder and results saved in the `output` folder. Please modify as needed.
 
 ```bash
 bash scripts/run_llff.sh
