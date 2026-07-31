@@ -70,7 +70,6 @@ class Camera(nn.Module):
             0.114 * self.original_image[2:3, :, :] 
         # self.freq_map = torch.from_numpy(get_distance_map(gray.unsqueeze(0))).cuda()#argmax_LoG_sigma(gray.unsqueeze(0),[2*i+1 for i in range(self.min_kernel,self.max_kernel)]).squeeze(0).squeeze(0)
         self.freq_map = argmax_LoG_sigma(gray.unsqueeze(0),[2*i+1 for i in range(self.min_kernel,self.max_kernel)]).squeeze(0).squeeze(0)
-        print(torch.unique(self.freq_map)) # FIXME
         
 
 class PseudoCamera(nn.Module):
