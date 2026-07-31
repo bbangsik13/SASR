@@ -1,0 +1,7 @@
+# ninja log v5
+1	9558	1756176621674818908	/root/home/bbangsik/workdirs/3DGS+SAM+LoG/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	84e3e8d19dee1c0b
+1	21403	1756176633510977019	/root/home/bbangsik/workdirs/3DGS+SAM+LoG/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	82e32ea3812d9db5
+1	42803	1756176654923253842	/root/home/bbangsik/workdirs/3DGS+SAM+LoG/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	5f051b9a14c23d7a
+0	9193	1756297909445271120	/root/bbangsik/workdirs/3DGS+SAM+LoG/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	c54e3319170da9fd
+0	20271	1756297920517028489	/root/bbangsik/workdirs/3DGS+SAM+LoG/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	de67190e2234fcd5
+1	38164	1756297938416636869	/root/bbangsik/workdirs/3DGS+SAM+LoG/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	57572f05be8d8f34

@@ -1,0 +1,11 @@
+# ninja log v5
+0	2786	1785403291365785862	/home/bbangsik/3DGS+SAM+depth/submodules/diff-gaussian-rasterization-w-depth/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/forward.o	3434655a9e655611
+0	2860	1785403291437788660	/home/bbangsik/3DGS+SAM+depth/submodules/diff-gaussian-rasterization-w-depth/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/backward.o	579cf605b997aa7b
+1	6742	1785403295317939731	/home/bbangsik/3DGS+SAM+depth/submodules/diff-gaussian-rasterization-w-depth/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/rasterizer_impl.o	466da5c38387eda2
+1	14799	1785403303374254360	/home/bbangsik/3DGS+SAM+depth/submodules/diff-gaussian-rasterization-w-depth/build/temp.linux-x86_64-cpython-310/ext.o	a2d8cbd9415b9b5a
+1	37223	1785403325791136543	/home/bbangsik/3DGS+SAM+depth/submodules/diff-gaussian-rasterization-w-depth/build/temp.linux-x86_64-cpython-310/rasterize_points.o	1148ebc63005b66
+13	2852	1785462931885047565	/home/bbangsik/3DGS+SAM+depth/submodules/diff-gaussian-rasterization-w-depth/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/forward.o	8167ee2aab411d11
+13	2925	1785462931953050975	/home/bbangsik/3DGS+SAM+depth/submodules/diff-gaussian-rasterization-w-depth/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/backward.o	72b3b4a25b3f27d5
+13	6822	1785462935849246285	/home/bbangsik/3DGS+SAM+depth/submodules/diff-gaussian-rasterization-w-depth/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/rasterizer_impl.o	b6f88a0357124041
+13	14886	1785462943909650606	/home/bbangsik/3DGS+SAM+depth/submodules/diff-gaussian-rasterization-w-depth/build/temp.linux-x86_64-cpython-310/ext.o	d11094d26a8f1e75
+14	37756	1785462966774799471	/home/bbangsik/3DGS+SAM+depth/submodules/diff-gaussian-rasterization-w-depth/build/temp.linux-x86_64-cpython-310/rasterize_points.o	e384afb74bfcd427

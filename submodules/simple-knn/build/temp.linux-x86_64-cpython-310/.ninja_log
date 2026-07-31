@@ -1,0 +1,7 @@
+# ninja log v5
+0	9486	1785403362924618719	/home/bbangsik/3DGS+SAM+depth/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	c3bd61e2000daf83
+0	14251	1785403367692810840	/home/bbangsik/3DGS+SAM+depth/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	8e20abcf445b4c67
+0	37066	1785403390501735294	/home/bbangsik/3DGS+SAM+depth/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	f62230cee5704994
+12	9480	1785463000256486650	/home/bbangsik/3DGS+SAM+depth/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	f6686dd98df301e8
+12	14379	1785463005156734051	/home/bbangsik/3DGS+SAM+depth/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	1f47083aa0365d03
+13	37571	1785463028345906363	/home/bbangsik/3DGS+SAM+depth/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	2f6af104259c19dd
