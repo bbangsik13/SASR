@@ -33,9 +33,9 @@ The code has been tested on RTX 2080 Ti and RTX A5000 with pytorch=2.0.0+cu118.
 
 ## Data Preparation
 ```bash
-bash scripts/download_llff.sh
+bash scripts/prepare_datasets.sh
 ```
-<b>Note</b>: While testing the code, we observed differences between our reproduced results and the reported quantitative results due to differences in the COLMAP MVS reconstruction (`tools/colmap_llff.py`). Therefore, we provide the MVS output generated during our testing as the default dataset. 
+<b>Note</b>: While testing the code, we observed differences between our reproduced results and the reported quantitative results due to differences in the COLMAP MVS reconstruction. Therefore, we provide the MVS output generated during our testing as the default dataset. 
 <br>
 You may regenerate the MVS results if needed. In that case, the `rho` values, except for the fixed `rho_xyz`, may require tuning. However, as discussed in the paper, applying our method only to the Gaussian means is a simplified yet highly effective approach, and we found it to be robust during reproduction.
 
@@ -44,6 +44,7 @@ The main experiments are run using `nohup`, and the logs are saved in the `logs`
 
 ```bash
 bash scripts/run_llff.sh
+bash scripts/run_mipnerf360.sh
 ```
 
 

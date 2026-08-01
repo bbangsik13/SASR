@@ -4,15 +4,17 @@
   source ~/anaconda3/etc/profile.d/conda.sh
   conda activate sasr
 
-  RHO_XYZ=1e0
+  RHO_XYZ=1e0 # FIXED
+  # Note: Tuning is optional. Setting the rho values below to 0 still yields decent performance.
   RHO_ROTATION=5e-4 
   RHO_SCALING=2e-1 
   RHO_OPACITY=1e-5
   RHO_F_DC=1e-1
   RHO_F_REST=1e-2
+  
   MIN_KERNEL=1 
-  MAX_GAMMA=0.95 
   MAX_KERNEL=15 
+  MAX_GAMMA=0.95
   THRESHOLD=0.0005
 
   if [ -z "$CUDA_VISIBLE_DEVICES" ]; then
